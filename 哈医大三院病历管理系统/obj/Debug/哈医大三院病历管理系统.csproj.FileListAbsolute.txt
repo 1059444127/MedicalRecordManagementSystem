@@ -1,0 +1,9 @@
+E:\MyVSWorkSpace\哈医大三院病历管理系统\哈医大三院病历管理系统\bin\Debug\哈医大三院病历管理系统.exe.config
+E:\MyVSWorkSpace\哈医大三院病历管理系统\哈医大三院病历管理系统\bin\Debug\哈医大三院病历管理系统.exe
+E:\MyVSWorkSpace\哈医大三院病历管理系统\哈医大三院病历管理系统\bin\Debug\哈医大三院病历管理系统.pdb
+E:\MyVSWorkSpace\哈医大三院病历管理系统\哈医大三院病历管理系统\obj\Debug\哈医大三院病历管理系统.csprojResolveAssemblyReference.cache
+E:\MyVSWorkSpace\哈医大三院病历管理系统\哈医大三院病历管理系统\obj\Debug\哈医大三院病历管理系统.MainForm.resources
+E:\MyVSWorkSpace\哈医大三院病历管理系统\哈医大三院病历管理系统\obj\Debug\哈医大三院病历管理系统.Properties.Resources.resources
+E:\MyVSWorkSpace\哈医大三院病历管理系统\哈医大三院病历管理系统\obj\Debug\哈医大三院病历管理系统.csproj.GenerateResource.Cache
+E:\MyVSWorkSpace\哈医大三院病历管理系统\哈医大三院病历管理系统\obj\Debug\哈医大三院病历管理系统.exe
+E:\MyVSWorkSpace\哈医大三院病历管理系统\哈医大三院病历管理系统\obj\Debug\哈医大三院病历管理系统.pdb
